@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omar González
+# 👋 Hi, I'm Omar Gonzalez
 
 ### 💻 Fullstack Developer
 
