@@ -45,6 +45,7 @@ Currently building and contributing to web platforms, APIs, and systems that nee
 ## 📫 Contact
 
 Feel free to reach out:  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orgc/)  
 
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@orgc1)  
