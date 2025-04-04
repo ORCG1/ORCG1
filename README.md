@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar González
 
-<!--
-**ORCG1/ORCG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Fullstack Developer
 
-Here are some ideas to get you started:
+I design, build, and maintain web applications using modern technologies across the full stack. My workflow balances clean architecture, practical implementation, and reliable deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+**Backend:**
+- Java + Spring Boot
+- Node.js + Express
+- Laravel (PHP)
+
+**Frontend:**
+- React.js ⚛️
+- Angular
+- JavaScript / TypeScript
+
+**Databases:**
+- PostgreSQL 🐘
+- MongoDB 🍃
+- SQL
+
+**Testing:**
+- Selenium 🤖
+
+**Authentication & Security:**
+- JWT
+
+**Cloud & Infrastructure:**
+- AWS ☁️
+
+---
+
+## 🚀 What I Do
+
+I focus on delivering solutions that are functional, scalable, and maintainable. I like working on real-world problems, automating things, and simplifying complexity through code.
+
+Currently building and contributing to web platforms, APIs, and systems that need solid backend logic and modern, responsive interfaces.
+
+---
+
+## 📫 Contact
+
+Feel free to reach out:
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orgc/)  
+- [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@orgc1)  
+- Email: `contact@omarglez.tech`
+
+- [LinkedIn](https://www.linkedin.com/in/orgc/)
+- [Medium](https://medium.com/@orgc1)
+- Email: `contact@omarglez.tech`
+
+---
+
+Thanks for visiting my profile!
